@@ -32,14 +32,10 @@ Também são realizados testes diretamente nos endpoints da aplicação utilizan
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/xLucasEmanuel/TesteASC
 ```
 
 ### 2. Acessar a pasta
-
-```bash
-cd automation-exercise-cypress
-```
 
 ### 3. Instalar as dependências
 
